@@ -45,11 +45,6 @@
 
 ---
 
-## 📸 **Screenshots**  
-*(Add screenshots of your website here to showcase its design and responsiveness!)*  
-
----
-
 ## 💡 **How to Run the Project?**  
 
 1️⃣ **Clone the repository:**  
@@ -70,9 +65,6 @@ cd Food-Munch
 🔸 Improve **SEO & performance optimizations**.  
 
 ---
-
-## 📬 **Connect with Me**  
-💼 [LinkedIn](#) | 🐦 [Twitter](#) | 🌐 [Portfolio](#)  
 
 👨‍💻 **Developed with ❤️ by [Praveen Kumar](#)**  
 
