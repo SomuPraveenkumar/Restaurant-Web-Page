@@ -39,9 +39,8 @@
 | Technology | Purpose |
 |------------|---------|
 | **HTML5** | Structuring the web pages |
-| **CSS3** | Styling and animations |
+| **CSS5** | Styling and animations |
 | **Bootstrap 5** | Responsive and grid-based layout |
-| **JavaScript** | Interactive elements and dynamic features |
 
 ---
 
