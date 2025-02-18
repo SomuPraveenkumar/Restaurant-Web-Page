@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 **Live Demo**  
-🔗 [Click here to view the live website](#) *(Replace with your hosted link)*  
+🔗 [foodmunch00001.ccbp.tech](#) *(Replace with your hosted link)*  
 
 ---
 
